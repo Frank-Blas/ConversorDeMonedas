@@ -71,15 +71,21 @@ Asegúrate de tener conexión a internet para acceder a la API.
 
 📷 Vista previa
 A continuación, un ejemplo del funcionamiento del programa en consola:
+
 Sea bienvenido/a al Conversor de Moneda
 
 Ingrese el código de la moneda base (ej: USD): usd
+
 Ingrese el código de la moneda destino (ej: CLP): clp
+
 Ingrese el valor a convertir: 100
+
 > 100.00 USD son 87000.50 CLP
+> 
 Gracias por usar el conversor de monedas. ¡Hasta pronto!
 
 🙌 Agradecimientos
+
 Este proyecto fue desarrollado con el acompañamiento del programa Oracle Next Education - Back End Java.
 Agradecimientos especiales a los mentores, tutores y a la comunidad por su constante apoyo y motivación.
 
