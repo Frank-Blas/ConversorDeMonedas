@@ -84,7 +84,7 @@ Ingrese el valor a convertir: 100
 > 
 Gracias por usar el conversor de monedas. ¡Hasta pronto!
 
-🙌 Agradecimientos
+## 🙌 Agradecimientos
 
 Este proyecto fue desarrollado con el acompañamiento del programa Oracle Next Education - Back End Java.
 Agradecimientos especiales a los mentores, tutores y a la comunidad por su constante apoyo y motivación.
