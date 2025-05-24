@@ -47,7 +47,7 @@ El proyecto está organizado por paquetes:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Frank-Blas/conversor-monedas-java.git
+   https://github.com/Frank-Blas/ConversorDeMonedas.git
 2. Abre el proyecto con tu IDE (IntelliJ, Eclipse, VS Code...).
 
 3. Ejecuta la clase ConversorApp.
